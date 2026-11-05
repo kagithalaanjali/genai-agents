@@ -79,7 +79,7 @@
       "runs_on_prem": false,
       "ctx_tokens": 131072,
       "price_in": 0.05,
-      "price_out": null,
+      "price_out": 0.08,
       "fixed_monthly_usd": 0,
       "reasoning": false,
       "vision": false,
